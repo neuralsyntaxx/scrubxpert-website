@@ -7,7 +7,7 @@ export const company = {
   phoneDisplay: '+91 96257 87681',
   whatsappLink: 'https://wa.me/919625787681',
   whatsappNumber: '919625787681',
-  email: 'satish.kashyap1977@gmail.com',
+  email: 'ekindustrydelhi@gmail.com',
   address: {
     line1: 'G.F. 63, Akbar Pur Majra',
     line2: 'Near Jaton Wali Choupal',
