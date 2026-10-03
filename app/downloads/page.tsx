@@ -13,7 +13,7 @@ const DOWNLOADS = [
   {
     title: 'Product Catalogue',
     description: 'Full SKU list with item codes, packaging and specifications.',
-    href: '/downloads/scrubxpert-product-catalogue.pdf',
+    href: '/Scrub_Xpert_Product_Catalogue_Final.pdf',
     available: true,
   },
   {
